@@ -1,0 +1,8 @@
+torch
+pandas
+numpy
+nltk
+zhon
+jieba
+python-dateutil
+transformers
